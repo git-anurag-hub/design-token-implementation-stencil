@@ -33,7 +33,7 @@
     "jest": "^27.4.5",
     "jest-cli": "^27.4.5",
     "lyne-design-tokens": "^3.21.0",
-    "puppeteer": "^10.0.0"
+    "puppeteer": "^19.2.2"
   },
   "license": "MIT"
 }
